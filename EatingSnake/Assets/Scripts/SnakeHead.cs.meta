@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d5015486c62b1e469df0d7bf6465c05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bodyPrefab: {instanceID: 0}
+  - dieEffect: {instanceID: 0}
+  - eatClip: {instanceID: 0}
+  - dieClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
